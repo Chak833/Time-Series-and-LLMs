@@ -1,6 +1,6 @@
 # Time-Series-and-LLMs
 
-This repository contains the code and paper on Large Language Models(LLMs) for Time Series.
+This repository contains the code and paper on Large Language Models(LLMs) for Time Series Forecasting.
 
 
 
