@@ -23,7 +23,16 @@ This repository contains the code and resources related to paper on Time-Series 
 - **One Fits All:Power General Time Series Analysis by Pretrained LM** [Paper](https://arxiv.org/abs/2302.11939) [Code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
 - **Are Language Models Actually Useful for Time Series Forecasting ?** [Paper](https://arxiv.org/abs/2406.16964) [Code](https://github.com/BennyTMT/LLMsForTimeSeries)
 - **CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning** [Paper](https://arxiv.org/abs/2403.07300) [Code](https://github.com/Hank0626/CALF)
+- **A Comprehensive Evaluation of Large Language Models on Temporal Event Forecasting** [Paper](https://arxiv.org/abs/2407.11638)
+- **LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting** [Paper](https://arxiv.org/abs/2402.16132) [Code](https://github.com/AdityaLab/lstprompt)
+- **S^2 IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting** [Paper](https://openreview.net/pdf/568edbc383b2ceee18b616f74dba317d75bfe123.pdf) [Code](https://github.com/panzijie825/s2ip-llm)
+- **Chronos: Learning the Language of Time Series** [Paper](https://arxiv.org/abs/2403.07815) [Code](https://github.com/amazon-science/chronos-forecasting)
+- **Large Pre-trained time series models for cross-domain Time series analysis tasks** [Paper](https://arxiv.org/pdf/2311.11413)
+- **TimeGPT-1** [Paper](https://arxiv.org/abs/2310.03589) [Code](https://github.com/Nixtla/nixtla)
 
+## For Financial
+- **Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications** [Paper](https://arxiv.org/abs/2408.11878) [Code](https://github.com/The-FinAI/PIXIU)
 
 ## Survey
 - **Large Language Models for Time Series: A Survey** [Paper](https://arxiv.org/abs/2402.01801)
+- **A Survey of Time Series Foundation Models: Generalizing Time Series Representation with Large Language Model** [Paper](https://arxiv.org/abs/2405.02358)
