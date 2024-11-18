@@ -1,6 +1,6 @@
 # Time-Series-and-LLMs
 
-This repository contains the code and resources related to our paper on Time-Series and Language Models (LLMs).
+This repository contains the code and resources related to paper on Time-Series and Language Models (LLMs).
 
 
 ## Contents
