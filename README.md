@@ -3,7 +3,6 @@
 This repository contains the code and resources related to paper on Time-Series and Language Models (LLMs).
 
 
-## Contents
 
 
 
@@ -26,5 +25,5 @@ This repository contains the code and resources related to paper on Time-Series 
 - **CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning** [Paper](https://arxiv.org/abs/2403.07300) [Code](https://github.com/Hank0626/CALF)
 
 
-### Survey
+## Survey
 - **Large Language Models for Time Series: A Survey** [Paper](https://arxiv.org/abs/2402.01801)
