@@ -20,3 +20,11 @@ This repository contains the code and resources related to paper on Time-Series 
 - **PromptCast: A New Prompt-based Learning Paradigm for Time Series** [Paper](https://arxiv.org/pdf/2210.08964) [Code](https://github.com/HaoUNSW/PISA)
 - **Time-llm: Time series forecasting by reprogramming large language models** [Paper](https://arxiv.org/pdf/2310.01728) [Code](https://github.com/KimMeen/Time-LLM)
 - **Large language models are zero-shot time series forecasters** [Paper](https://arxiv.org/pdf/2310.07820) [Code](https://github.com/ngruver/llmtime)
+- **TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series** [Paper](https://arxiv.org/pdf/2308.08241)
+- **One Fits All:Power General Time Series Analysis by Pretrained LM** [Paper](https://arxiv.org/abs/2302.11939) [Code](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)
+- **Are Language Models Actually Useful for Time Series Forecasting ?** [Paper](https://arxiv.org/abs/2406.16964) [Code](https://github.com/BennyTMT/LLMsForTimeSeries)
+- **CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning** [Paper](https://arxiv.org/abs/2403.07300) [Code](https://github.com/Hank0626/CALF)
+
+
+### Survey
+- **Large Language Models for Time Series: A Survey** [Paper](https://arxiv.org/abs/2402.01801)
