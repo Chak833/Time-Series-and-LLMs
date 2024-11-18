@@ -29,6 +29,7 @@ This repository contains the code and resources related to paper on Time-Series 
 - **Chronos: Learning the Language of Time Series** [Paper](https://arxiv.org/abs/2403.07815) [Code](https://github.com/amazon-science/chronos-forecasting)
 - **Large Pre-trained time series models for cross-domain Time series analysis tasks** [Paper](https://arxiv.org/pdf/2311.11413)
 - **TimeGPT-1** [Paper](https://arxiv.org/abs/2310.03589) [Code](https://github.com/Nixtla/nixtla)
+- **Generative Pretrained Hierarchical Transformer for Time Series Forecasting** [Paper](https://arxiv.org/abs/2402.16516) [Code](https://github.com/icantnamemyself/GPHT)
 
 ## For Financial
 - **Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications** [Paper](https://arxiv.org/abs/2408.11878) [Code](https://github.com/The-FinAI/PIXIU)
