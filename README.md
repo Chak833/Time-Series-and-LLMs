@@ -30,7 +30,7 @@ This repository contains the code and paper on Large Language Models(LLMs) for T
 - **Large Pre-trained time series models for cross-domain Time series analysis tasks** [Paper](https://arxiv.org/pdf/2311.11413)
 - **TimeGPT-1** [Paper](https://arxiv.org/abs/2310.03589) [Code](https://github.com/Nixtla/nixtla)
 - **Generative Pretrained Hierarchical Transformer for Time Series Forecasting** [Paper](https://arxiv.org/abs/2402.16516) [Code](https://github.com/icantnamemyself/GPHT)
-
+- **Lag-Llama: Towards Foundation Models for Time Series Forecasting** [Paper](https://arxiv.org/abs/2310.08278) [Code](https://github.com/kashif/pytorch-transformer-ts)
 ## For Financial
 - **Open-FinLLMs: Open Multimodal Large Language Models for Financial Applications** [Paper](https://arxiv.org/abs/2408.11878) [Code](https://github.com/The-FinAI/PIXIU)
 
